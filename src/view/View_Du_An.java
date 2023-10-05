@@ -9,7 +9,7 @@ package view;
  * @author Asus
  */
 public class View_Du_An extends javax.swing.JFrame {
-
+//abc
     /**
      * Creates new form View_Du_An
      */
